@@ -1,1 +1,2 @@
 This is contact
+This text was added on local.
